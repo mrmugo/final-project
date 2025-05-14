@@ -32,3 +32,4 @@ This database enforces data integrity using primary keys, foreign keys, and cons
    Option A – Using the command line:
    ```sql
    SOURCE /path/to/clinic_system.sql;
+link [https://github.com/mrmugo/final-project.git]
